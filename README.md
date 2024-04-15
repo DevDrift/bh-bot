@@ -13,7 +13,8 @@
 - [x] BRZ
 - [x] AUS
 - [x] US-W
-- [x] JPN SA
+- [x] JPN
+- [x] SA
 - [x] ME
 
 Персональная статистика игры 1v1 | Personal statistics of the 1v1 game
