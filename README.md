@@ -20,4 +20,17 @@
 ```
 /bh-ranked
 ```
+Как найти свой BH ID | How to find your BH ID
+```
+User ID = BH ID
+```
+
+![image](https://github.com/DevDrift/bh-bot/assets/19922232/d8c0334d-73e4-4b6e-acd5-d096e6764b5c)
+
+Напишите свой BH ID | Write your BH ID
+
+![image](https://github.com/DevDrift/bh-bot/assets/19922232/3abd0351-c01e-4ede-b87d-6138f546943d)
+
+Дождитесь результата выполнения запроса | Wait for the result of the request
+
 ![image](https://github.com/DevDrift/bh-bot/assets/19922232/016e78a7-2775-4d8c-9096-f5aba2e0d755)
