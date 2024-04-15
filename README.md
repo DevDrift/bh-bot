@@ -17,6 +17,7 @@
 - ME
 ```
 
+Персональная статистика игры 1v1 | Personal statistics of the 1v1 game
 ```
 /bh-ranked
 ```
