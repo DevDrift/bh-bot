@@ -5,6 +5,8 @@
 📖 [Wiki](https://github.com/DevDrift/bh-bot/wiki)
 🍩 [Donat](https://www.donationalerts.com/r/deemak)
 
+👍 [![image](https://top.gg/api/widget/upvotes/1229312091429671024.svg)](https://top.gg/bot/1229312091429671024)
+
 Поддержка всех серверов | All servers supported
 
 - [x] US-E
