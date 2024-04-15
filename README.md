@@ -6,16 +6,15 @@
 🍩 [Donat](https://www.donationalerts.com/r/deemak)
 
 Поддержка всех серверов | All servers supported
-```
-- US-E
-- EU
-- SEA
-- BRZ
-- AUS
-- US-W
-- JPN SA
-- ME
-```
+
+- [x] US-E
+- [x] EU
+- [x] SEA
+- [x] BRZ
+- [x] AUS
+- [x] US-W
+- [x] JPN SA
+- [x] ME
 
 Персональная статистика игры 1v1 | Personal statistics of the 1v1 game
 ```
