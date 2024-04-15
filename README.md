@@ -1,6 +1,10 @@
 # BH
 Вы хотите удивить участников вашего дискорд сервера, но не знаете как - этот бот именно для вас. Показать персональную статистику игры **1v1**, **2v2** и многое другое станет досупно с интерактивным ботом.
 
+👉 [Add bot](https://discord.com/oauth2/authorize?client_id=1229312091429671024)
+📖 [Wiki](https://github.com/DevDrift/bh-bot/wiki)
+🍩 [Donat](https://www.donationalerts.com/r/deemak)
+
 Поддержка всех серверов | All servers supported
 ```
 - US-E
@@ -12,10 +16,6 @@
 - JPN SA
 - ME
 ```
-
-👉 [Add bot](https://discord.com/oauth2/authorize?client_id=1229312091429671024)
-📖 [Wiki](https://github.com/DevDrift/bh-bot/wiki)
-🍩 [Donat](https://www.donationalerts.com/r/deemak)
 
 ```
 /bh-ranked
